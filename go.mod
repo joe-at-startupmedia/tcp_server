@@ -1,3 +1,3 @@
-module github.com/firstrow/tcp_server
+module github.com/joe-at-startupmedia/tcp_server
 
-go 1.13
+go 1.21
